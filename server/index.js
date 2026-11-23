@@ -102,17 +102,13 @@ if (process.env.DISABLE_BOT !== '1') {
   }
 }
 
-// Render yoki tashqi HTTPS URL bo'lsa cloudflared siz to'g'ridan-to'g'ri ulaymiz va 24/7 uyg'oq saqlaymiz
+// Render yoki tashqi HTTPS URL bo'lsa cloudflared siz to'g'ridan-to'g'ri ulaymiz (soat tejash uchun faqat foydalanilganda uyg'oq turadi)
 const externalHttpsUrl = process.env.RENDER_EXTERNAL_URL || (process.env.MINI_APP_URL && /^https:\/\//i.test(process.env.MINI_APP_URL) ? process.env.MINI_APP_URL : '');
 if ((process.env.RENDER || externalHttpsUrl) && botModule) {
   if (externalHttpsUrl) {
     const cleanUrl = externalHttpsUrl.replace(/\/+$/, '');
     botModule.setMiniAppUrl(cleanUrl);
     setTimeout(() => botModule.setMiniAppUrl(cleanUrl), 15000);
-    setInterval(() => {
-      botModule.setMiniAppUrl(cleanUrl);
-      fetch(`${cleanUrl}/health`).catch(() => {});
-    }, 10 * 60 * 1000);
   }
 } else if ((process.env.AUTO_TUNNEL === '1' || !process.env.RENDER) && botModule) {
   let exe = path.join(__dirname, '..', 'cloudflared.exe');
