@@ -135,11 +135,14 @@ if ((process.env.RENDER || externalHttpsUrl) && botModule) {
       currentCf = cf;
       let found = false;
       const onData = (buf) => {
-        const m = String(buf).match(/https:\/\/[a-zA-Z0-9-]+\.trycloudflare\.com/);
-        if (m && !found) {
-          found = true;
-          console.log('🌐 Mini App HTTPS URL:', m[0]);
-          botModule.setMiniAppUrl(m[0]);
+        const matches = String(buf).match(/https:\/\/[a-zA-Z0-9-]+\.trycloudflare\.com/g);
+        if (matches && !found) {
+          const realUrl = matches.find(u => !u.includes('api.trycloudflare.com'));
+          if (realUrl) {
+            found = true;
+            console.log('🌐 Mini App HTTPS URL:', realUrl);
+            botModule.setMiniAppUrl(realUrl);
+          }
         }
       };
       cf.stdout.on('data', onData);
