@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules/
+.env
+cloudflared.exe
+*.log
+data/*.db-shm
+data/*.db-wal

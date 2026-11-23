@@ -1,0 +1,62 @@
+================================================================================
+   🍕 YETKAZIB BERISH EKOTIZIMI (@sorry1345ds_bot) — REKLAMA VIDEOSI UCHUN
+      GEMINI 4 ARGON / AI VIDEO GENERATOR TO'LIQ SSENARIY VA PROMPTLARI
+================================================================================
+Loyiha manzili : C:\Users\Xoliqulov\delivery-bot
+Bot username   : @sorry1345ds_bot
+Bot Token ID   : 9272178517:AAHdmjs194mh7KMS5PsHcz_nvt2yUMco6OU
+Dizayn uslubi  : Yandex Eats uslubidagi Dark Mode (#111827) + Olovrang (#F97316)
+--------------------------------------------------------------------------------
+
+================================================================================
+1-QISM: YAGONA MUKAMMAL "MASTER PROMPT" (GEMINI 4 ARGON / VEO / SORA UCHUN)
+(Quyidagi matnni to'liq nusxalab Gemini yoki AI Video generatorga tashlang)
+================================================================================
+
+PROMPT (O'ZBEK TILIDA):
+"Telegram ichida ishlovchi '@sorry1345ds_bot' — zamonaviy 'Fast Food & Yetkazib Berish Ekotizimi' (Yandex Eats uslubidagi Web Mini App) uchun 60 soniyalik, dinamik, 4K sifatli, insonlarga 100% tushunarli reklama va qo'llanma videosi yasa. Video quyidagi aniq ketma-ketlikda, ekran animatsiyalari (UI mockup) va hayotiy kadrlar uyg'unligida ko'rsatilsin:
+
+1-SAHNA (0:00–0:08) — BOTGA KIRISH VA 4 TA ROL:
+Smartfon ekranida Telegram ochiladi, foydalanuvchi @sorry1345ds_bot ga kirib '/start' bosadi. Ekranda Ommaviy oferta va Maxfiylik siyosati oynasi chiqib, '✅ Roziman va Qabul qilaman' tugmasi bosiladi va '🚀 Ilovani ochish' orqali to'q kulrang (Dark mode) va yorqin olovrang (Orange) dizayndagi zamonaviy Mini App ochiladi. Yuqori menyuda 4 ta rejim porlab ko'rinadi: '🛍️ Mijoz', '🏪 Sotuvchi', '🚴 Kuryer', '👑 Admin'.
+Ekrandagi yozuv va diktor ovozi: 'Bitta Telegram botda — butun boshli yetkazib berish ekotizimi! Mijoz, Sotuvchi, Kuryer va Admin uchun yagona zamonaviy platforma!'
+
+2-SAHNA (0:08–0:20) — 1-QADAM: MIJOZ BUYURTMA BERADI (🛍️ Mijoz paneli):
+Mijoz '🍕 Taomnoma' bo'limidan ishtahaochar Pitsa, Lavash va Ichimliklarni (narxi, grammi va qoldig'i ko'rsatilgan kartochkalardan) savatga qo'shadi. Interaktiv xaritada o'z GPS lokatsiyasini belgilaydi. To'lov usuli sifatida 'Plastik karta (chek yuklash)' yoki 'Naqd pul'ni tanlab, to'lov cheki skrinshotini yuklaydi va 'Buyurtma berish' tugmasini bosadi.
+Ekrandagi yozuv va diktor ovozi: '1-qadam: Mijoz taomnomadan taom tanlaydi, GPS manzilini belgilaydi va karta yoki naqd pul orqali bir necha soniyada buyurtma beradi!'
+
+3-SAHNA (0:20–0:32) — 2-QADAM: SOTUVCHI TASDIQLAYDI VA OSHXONA JARAYONI (🏪 Sotuvchi paneli):
+Ekran ikkiga bo'linadi: Restoran oshxonasida sotuvchi Telegram va 'Sotuvchi Paneli -> 📋 Buyurtmalar' bo'limida yangi buyurtma hamda to'lov chekini ko'radi. '✅ Tasdiqlash' tugmasini bosishi bilan:
+- Tizim sotuvchining 'Faol depozit balansi'dan platforma komissiyasini (5% Admin + 15% Kuryer) avtomatik Hold (muzlatish) qiladi, 80% sof foyda sotuvchining o'zida qoladi.
+- Mijozning Telegramiga va ilovasiga '🔑 Yetkazib berish PIN-kodi: 4829' xabari boradi.
+Oshpaz issiq taomni qadoqlab, ilovada '🤝 Kuryerga topshirdim' tugmasini bosadi.
+Ekrandagi yozuv va diktor ovozi: '2-qadam: Sotuvchi to'lovni 1 bosishda tasdiqlaydi! 80% sof daromad do'konning o'zida qoladi, mijozga esa maxfiy 4 xonali PIN-kod yuboriladi!'
+
+4-SAHNA (0:32–0:44) — 3-QADAM: 20 KM RADIUSDAGI KURYER VA JONLI XARITA (🚴 Kuryer paneli):
+Restorandan 20 km radius ichidagi barcha onlayn kuryerlarning Telegramiga '🆕 Yangi buyurtma tayyor! Kuryer xizmat haqi: +15% ulush' degan xabar keladi. Skuterdagi kuryer '📦 Buyurtmalar' bo'limida '✅ Qabul qilish' tugmasini bosadi. '🗺️ Xarita' bo'limida Restorandan Mijoz uyigacha bo'lgan jonli GPS marshrut chizig'i va masofa (km) ko'rinadi. Kuryer buyurtmani olib yo'lga chiqadi.
+Ekrandagi yozuv va diktor ovozi: '3-qadam: 20 km radiusdagi yaqin kuryerlarga darhol xabar boradi! Kuryer buyurtmani qabul qilib, jonli GPS xarita orqali mijoz tomon harakatlanadi!'
+
+5-SAHNA (0:44–0:52) — 4-QADAM: 4 XONALI PIN-KOD ORQALI TOPSHIRISH VA AVTOMATIK HISOB:
+Kuryer mijoz eshigi oldiga yetib kelib, tabassum bilan buyurtmani uzatadi. Mijoz o'z telefonidagi 4 xonali '4829' PIN-kodni aytadi. Kuryer kodni o'z ilovasiga kiritishi bilan ekranda yashil '🎉 Buyurtma yetkazildi!' animatsiyasi chiqadi va kuryerning '💳 Hisobim' balansiga 15% xizmat haqi avtomatik tushadi.
+Ekrandagi yozuv va diktor ovozi: '4-qadam: Xavfsiz yetkazish! Mijoz 4 xonali PIN-kodni aytadi, kuryer kodni kiritishi bilan buyurtma yopiladi va daromad avtomatik hisobga o'tadi!'
+
+6-SAHNA (0:52–1:00) — ADMIN NAZORATI, 24/7 AI YORDAMCHI VA YAKUNIY CHAQIRIQ:
+Tezkor kadrda '👑 Admin Paneli' (kuryer va sotuvchi arizalarini 1 bosishda tasdiqlab 6 xonali kod berish, daromadlar statistikasi, mijozlarga 🐻🌸💎 sovg'alar yuborish) hamda guruhda savollarga javob berayotgan '🤖 24/7 AI Konsultant' ko'rsatiladi. Yakunda katta yorqin logotip va QR-kod bilan '@sorry1345ds_bot' ekranga chiqadi.
+Ekrandagi yozuv va diktor ovozi: 'Shaffof hisob-kitob, 24/7 Sun'iy Intellekt yordamchisi va to'liq avtomatlashgan tizim! Mijoz bo'ling, do'koningizni ulang yoki kuryer bo'lib daromad toping! Hoziroq Telegramda @sorry1345ds_bot ga kiring va /start bosing!'"
+
+--------------------------------------------------------------------------------
+
+================================================================================
+2-QISM: INGLIZ TILIDAGI CINEMATIC PROMPT (VEO 2 / SORA / RUNWAY GEN-3 UCHUN)
+(Agar video generator ingliz tilidagi vizual promptni yaxshiroq tushunsa)
+================================================================================
+
+ENGLISH VISUAL PROMPT:
+"Create a high-energy, photorealistic 60-second 4K commercial and step-by-step explainer video for a Telegram Mini App food delivery ecosystem called '@sorry1345ds_bot' (Yandex Eats style dark UI #111827 with vibrant orange #F97316 accents).
+
+Scene 1 (0:00-0:08) [Launch & 4 Roles]: Close-up of a modern smartphone opening Telegram chat '@sorry1345ds_bot', tapping '/start', accepting Legal Terms ('✅ Roziman va Qabul qilaman'), and launching a sleek dark-mode Web Mini App. Highlight the top role switcher bar showing 4 roles: '🛍️ Mijoz' (Customer), '🏪 Sotuvchi' (Seller), '🚴 Kuryer' (Courier), '👑 Admin'.
+Scene 2 (0:08-0:20) [Customer Ordering]: In '🛍️ Mijoz' panel ('🍕 Taomnoma'), finger scrolls through appetizing food cards (Pizza, Lavash, Burgers with weight and UZS price), adds items to cart, pins delivery location on an interactive dark GPS map, uploads payment receipt screenshot (or selects Cash), and taps Order.
+Scene 3 (0:20-0:32) [Seller Confirmation & PIN Generation]: Split screen: A restaurant manager in a modern kitchen receives an instant notification in '🏪 Sotuvchi Paneli -> 📋 Buyurtmalar', views the payment receipt, and taps '✅ Tasdiqlash'. Show an animated UI graphic of automatic escrow commission hold from 'Faol Depozit Balansi' (80% Seller net profit, 15% Courier, 5% Admin) and a 4-digit security PIN code ('🔑 4829') sent to the customer's phone. The chef packs the hot meal and taps '🤝 Kuryerga topshirdim'.
+Scene 4 (0:32-0:44) [20km Radius Courier Alert & Live GPS Route]: A radar wave expands 20 km from the restaurant. A scooter courier receives a Telegram alert ('🆕 Yangi buyurtma! +15% daromad'), opens '🚴 Kuryer Paneli', taps '✅ Qabul qilish', and follows a glowing orange live GPS route line on '🗺️ Xarita' from the restaurant to the customer.
+Scene 5 (0:44-0:52) [4-Digit PIN Handover & Instant Payout]: At the customer's doorstep, the courier hands over the food bag. The smiling customer shows the 4-digit PIN '4829' on their phone. The courier enters '4829' into the app; a green checkmark '🎉 Yetkazildi!' bursts on screen and the courier's earnings balance ('💳 Hisobim') updates instantly.
+Scene 6 (0:52-1:00) [Admin Control, 24/7 AI Assistant & Call to Action]: Fast montage of '👑 Admin Panel' approving new sellers/couriers with 6-digit access codes, sending virtual gifts (🐻, 🌸, 💎), and a 24/7 AI chatbot answering group questions. End on a bold hero screen: '🍕 Fast Food & Yetkazib Berish Ekotizimi — @sorry1345ds_bot — Hoziroq /start bosing!'"
+================================================================================
