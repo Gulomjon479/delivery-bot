@@ -93,13 +93,15 @@ app.listen(PORT, () => {
 });
 
 let botModule = null;
-if (process.env.DISABLE_BOT !== '1') {
+if (process.env.ENABLE_DELIVERY_BOT === '1' && process.env.DISABLE_BOT !== '1') {
   try {
     botModule = require('./bot');
     console.log('🤖 Telegram Bot running with polling');
   } catch (e) {
     console.error('❌ Bot start error:', e.message);
   }
+} else {
+  console.log('⏸️ Delivery bot polling disabled (only @quiz15_testbot active).');
 }
 
 // Render yoki tashqi HTTPS URL bo'lsa cloudflared siz to'g'ridan-to'g'ri ulaymiz (soat tejash uchun faqat foydalanilganda uyg'oq turadi)
